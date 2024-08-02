@@ -1,2 +1,2 @@
-public class canPlaceFlowers {
-}
+//public class canPlaceFlowers {
+
