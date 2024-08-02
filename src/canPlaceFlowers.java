@@ -1,2 +1,4 @@
-//public class canPlaceFlowers {
+public blic class canPlaceFlowers {
+
+}
 
